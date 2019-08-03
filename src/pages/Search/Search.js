@@ -49,8 +49,8 @@ class Search extends Component {
     return (
       <div>
         <Jumbotron>
-          <h1 className="display-4">(React) Google Books Search</h1>
-          <p className="lead">Search for and save books of interest.</p>
+          <h1 className="display-4">Let's Find You Something to Read!</h1>
+          <p className="lead">Find a Book and Save it. It's That Simple!</p>
           <hr className="my-4" />
           <p className="lead">
             <Link className="btn btn-default btn-lg" to="/" role="button">New Search</Link>
